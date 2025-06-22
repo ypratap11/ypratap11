@@ -3,7 +3,7 @@
 <!--
 **ypratap11/ypratap11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Yash Pratap - AI/ML Engineer in Transition
+# Yeragudipati Pratap - AI/ML Engineer in Transition
 
 ## 👋 About Me
 Oracle ERP Expert with 20+ years transitioning to AI/ML Engineering. 
