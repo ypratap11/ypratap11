@@ -6,7 +6,7 @@
 # Yash Pratap - AI/ML Engineer in Transition
 
 ## 👋 About Me
-Oracle ERP Expert with 8+ years transitioning to AI/ML Engineering. 
+Oracle ERP Expert with 20+ years transitioning to AI/ML Engineering. 
 Passionate about applying AI to solve real business problems.
 
 **Background:** Program Manager | Oracle ERP Implementation | Business Process Optimization
